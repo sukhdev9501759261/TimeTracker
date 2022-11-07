@@ -1,0 +1,73 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ProximaNova-Bold.otf",
+      "sha1": "411bff1d3b8f0144f1685c94a21156a53848d5a6"
+    },
+    {
+      "path": "src/assets/fonts/ProximaNova-Extrabld.otf",
+      "sha1": "01ed725f5618902e19911eccac005c7069bc8017"
+    },
+    {
+      "path": "src/assets/fonts/ProximaNova-Regular.otf",
+      "sha1": "28d04eb938c05b5158a69a709682d4f0517a59ab"
+    },
+    {
+      "path": "src/assets/fonts/ProximaNova-Semibold.otf",
+      "sha1": "74a699b9dd3f05a8e4d21648bc60ef75ed791bd4"
+    },
+    {
+      "path": "src/assets/fonts/ProximaNova-SemiboldIt.otf",
+      "sha1": "1ed3ea4ed80a9996d289446589b07cf7ed0f0141"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "0ce37ced9c5fcac9bdc452a432c1258870ba4677"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Light.ttf",
+      "sha1": "73a2bb2d6e591a90ffb4ed118a3989fb17b54c7b"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "5f16f4d6dbb4a4f12d8ae96488ac209bb49762a5"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "dd1b1db13ff1f72138c134c62f38fef83749f36a"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Bold.ttf",
+      "sha1": "aead9ef7e53e7130e2f1a71d327c5321ba686b96"
+    },
+    {
+      "path": "src/assets/fonts/Sora-ExtraBold.ttf",
+      "sha1": "bc68b1ba214961657ca64dfe8bd029b172f59f4a"
+    },
+    {
+      "path": "src/assets/fonts/Sora-ExtraLight.ttf",
+      "sha1": "c409e2b96249a5668aafd07f673edab4d394e23d"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Light.ttf",
+      "sha1": "26b9c00a92c0cd8a912dcbfe765b083ed4e551a9"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Medium.ttf",
+      "sha1": "2ebf5a7efa7b6cc5b59b2229a3b0e6de59af7c9e"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Regular.ttf",
+      "sha1": "85f53239374778c8256be6f4b0926fe2ec02708f"
+    },
+    {
+      "path": "src/assets/fonts/Sora-SemiBold.ttf",
+      "sha1": "1336fe9e94b336f86b7af3e751fce9675116882e"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Thin.ttf",
+      "sha1": "92f36c6574e410c4f4f7d20957b823dd3ee4bada"
+    }
+  ]
+}
